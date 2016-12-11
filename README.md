@@ -7,8 +7,8 @@ This python script extracts one of the most useful websites for computer geeks, 
 
 - pip
 
-  sudo easy_install pip
+  > sudo easy_install pip
 
 - BeautifulSoup
 
-  pip install beautifulsoup4
+  > pip install beautifulsoup4
